@@ -4,7 +4,7 @@ Este es el repositorio para el propedéutico (aka prope) de la MCD en el ITAM im
 
 ### Dar click en [liga](https://drive.google.com/file/d/1A5FF9lOFYXb4CdbAQaOp79x1A-9-j36b/view?usp=sharing) para el temario.
 
-### Dar click en [liga2](https://hackmd.io/@palmoreck/Sy2qixj28) para una presentación de introducción al prope verano 2020.
+### Dar click en [liga2](https://hackmd.io/@palmoreck/rJQQIEmbv) para una presentación de introducción al prope verano 2020.
 
 ### Dar click en el siguiente botón para unirse\* al chat del verano del 2020 en [gitter](https://gitter.im/): [![Gitter](https://badges.gitter.im/prope-2020/community.svg)](https://gitter.im/prope-2020/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
 
@@ -55,11 +55,9 @@ Esta organización tiene integrados los siguientes botones de [repl.it](https://
 
 ## Índice de notas
 
-**Nota: El siguiente índice lo estaré llenando conforme avancemos en el curso de verano 2020.** 
-
 Cada número contiene información del tema respectivo, dar click en el tema de interés.
 
-**Python**
+**[Python](/Python)**
 
 **Introducción:**
 
@@ -89,9 +87,9 @@ Cada número contiene información del tema respectivo, dar click en el tema de 
 
 [3. Mínimos cuadrados lineales](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/3_minimos_cuadrados.ipynb)
 
-[4. SVD y reconstrucción de imágenes](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/4_SVD_y_reconstruccion_de_imagenes.ipynb)
+[4. SVD](https://github.com/ITAM-DS/Propedeutico/blob/master/Python/clases/3_algebra_lineal/4_SVD_y_reconstruccion_de_imagenes.ipynb)
 
-**R**
+**[R](/R)**
 
 **Introducción:**
 
@@ -121,11 +119,10 @@ Cada número contiene información del tema respectivo, dar click en el tema de 
 
 **Estadística:**
 
-[1. Elementos de estadística descriptiva](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb)
+[1. Elementos de Estadística descriptiva](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/1_elementos_de_estadistica_descriptiva.ipynb)
 
 [2. Distribuciones comunes](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/2_distribuciones_comunes.ipynb)
 
 [3. Elementos de inferencia](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/3_elementos_de_inferencia.ipynb)
 
-
-
+[4. Regresión lineal](https://github.com/ITAM-DS/Propedeutico/blob/master/R/clases/3_estadistica/4_regresion_lineal.ipynb)
